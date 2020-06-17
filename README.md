@@ -1,1 +1,1 @@
-# pensieve-languages
+# pensieve-localization
